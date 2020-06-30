@@ -2,4 +2,4 @@ print("this file was created with RStudio")
 
 print("And now it lives on GitHub")
 
-print("end of story, back to business")
+print("end of story, back to work")
